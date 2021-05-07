@@ -34,3 +34,6 @@ error = difference between y and the observed value
 Regressão Linear Simples no R. Available from: https://rstudio-pubs-static.s3.amazonaws.com/46495_3f8078811c5d44a5b7951bf68a230c04.html
 
 10.2: The Linear Correlation Coefficient. Available from: https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.02%3A_The_Linear_Correlation_Coefficient
+
+healthknowledge. Linear regression and correlation. Available from: https://www.healthknowledge.org.uk/e-learning/statistical-methods/specialists/linear-regression-correlation
+
