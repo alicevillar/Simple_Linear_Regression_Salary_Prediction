@@ -7,7 +7,7 @@ Tool: jupyter notebook
 
 Company X provided you with employee data containing information about its employees experience time and salaries. The company is about to hire a new employee and wants you to estimate the salary for the new employee considering the time of experience.
 
-## Understanding the Linear Regression Model
+## Linear Regression Model: Overview
 
 Technique used to describe the relationship between two variables where one variable (the dependent variable denoted by y) is expected to change as the other one (independent,  predictor variable denoted by x) changes. Regression analysis is commonly used for modeling the relationship between a single dependent variable Y and one or more predictors.  When we have one predictor, we call this "simple" linear regression.
 
