@@ -18,12 +18,39 @@ Where Y is the predictor variable, A the intercept, B the slope and X the explan
 
 In short:
 
-y = dependent variable
-A = constant (y intercept) 
-B = gradient (slope coefficient)
-error = difference between y and the observed value 
+* y = dependent variable
+* A = constant (y intercept) 
+* B = gradient (slope coefficient)
+* error = difference between y and the observed value 
 
-#### Takeaway
+##### Correlation coefficient
+
+The correlational coefficient is the statistical technique used to measure strength of linear association, r, between two continuous variables, i.e. closeness with which points lie along the regression line, and lies between -1 and +1
+
+* if r = 1 or -1 it is a perfect linear relationship
+* if r = 0 there is no linear relationship between x & y
+
+Conventionally:
+
+* |r|>0.8 => very strong relationship
+
+ * 0.6 ≤|r| strong relationship
+
+* 0.4≤|r| moderate relationship
+
+* 0.2 ≤|r| weak relationship
+
+* |r| very weak relationship
+
+Note, however, that the statistical significance depends on the sample size. You can test whether r is statistically significantly different from zero. Note that the larger the sample, the smaller the value of r that becomes significant. For example with n=10 pairs, r is significant if it is greater than 0.63. With n=100 pairs, r is significant if it is greater than 0.20.
+
+Important points:
+
+* A significant correlation between two variables does not necessarily mean they are causally related
+* For large samples very weak relationships can be detected
+
+
+#### Takeaways
 
 * The linear correlation coefficient measures the strength and direction of the linear relationship between two variables  x  and  y .
 * The sign of the linear correlation coefficient indicates the direction of the linear relationship between  x  and  y .
