@@ -3,11 +3,11 @@
 This Simple Linear Regression is a fictional case study based on a Kaggle dataset (https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 Tool: jupyter notebook
 
-## Fictional Case:
+## Fictional Case
 
 Company X provided you with employee data containing information about its employees experience time and salaries. The company is about to hire a new employee and wants you to estimate the salary for the new employee considering the time of experience.
 
-## Linear Regression 
+## Linear Regression Model
 
 Technique used to describe the relationship between two variables where one variable (the dependent variable denoted by y) is expected to change as the other one (independent,  predictor variable denoted by x) changes. Regression analysis is commonly used for modeling the relationship between a single dependent variable Y and one or more predictors.  When we have one predictor, we call this "simple" linear regression.
 
