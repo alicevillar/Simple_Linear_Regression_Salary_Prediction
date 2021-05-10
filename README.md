@@ -1,6 +1,6 @@
 # Simple Linear Regression: Salary Prediction
 
-This Simple Linear Regression is a fictional case study based on a Kaggle dataset (https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
+This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 Tool: jupyter notebook
 
 ## Fictional Case: Company X
@@ -23,7 +23,7 @@ In short:
 * B = gradient (slope coefficient)
 * error = difference between y and the observed value 
 
-##### Correlation coefficient
+#### Correlation coefficient
 
 The correlational coefficient is the statistical technique used to measure strength of linear association, r, between two continuous variables, i.e. closeness with which points lie along the regression line, and lies between -1 and +1
 
@@ -46,12 +46,7 @@ Note, however, that the statistical significance depends on the sample size. You
 
 Important points:
 
-* A significant correlation between two variables does not necessarily mean they are causally related
 * For large samples very weak relationships can be detected
-
-
-#### Takeaways
-
 * The linear correlation coefficient measures the strength and direction of the linear relationship between two variables  x  and  y .
 * The sign of the linear correlation coefficient indicates the direction of the linear relationship between  x  and  y .
 * When  r  is near  1  or  −1  the linear relationship is strong; when it is near  0  the linear relationship is weak.
