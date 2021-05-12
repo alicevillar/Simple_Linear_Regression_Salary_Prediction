@@ -3,7 +3,7 @@
 This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 Tool: jupyter notebook
 
-## Fictional Case: Company X
+# Fictional Case: Company X
 
 Company X provided you with employee data containing information about its employees experience time and salaries. The company is about to hire a new employee and wants you to estimate the salary for the new employee considering the time of experience.
 
@@ -51,6 +51,17 @@ Important points:
 * The sign of the linear correlation coefficient indicates the direction of the linear relationship between  x  and  y .
 * When  r  is near  1  or  −1  the linear relationship is strong; when it is near  0  the linear relationship is weak.
 
+## Company X - Approach
+
+I used Sklearn and Statsmodels to create the Linear Regression Model. Both generated the same scatter plot model: 
+
+![print](linear_regression_sklearn_statsmodels.PNG)
+
+Finally, I also used seaborn regplot to create a scatter plot, which showed the same result:
+
+![print](linear_regression_regplot.PNG)
+
+ 
 
 ## Resources 
 
