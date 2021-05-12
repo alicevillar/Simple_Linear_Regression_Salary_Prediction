@@ -1,7 +1,8 @@
 # Simple Linear Regression: Salary Prediction
 
 This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
-Tool: jupyter notebook
+
+* Tool: jupyter notebook
 
 # Fictional Case: Company X
 
