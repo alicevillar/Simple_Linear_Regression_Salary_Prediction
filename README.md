@@ -58,6 +58,12 @@ I used Sklearn and Statsmodels to create the Linear Regression Model. Both gener
 
 ![print](linear_regression_sklearn_statsmodels.PNG)
 
+
+Here is the table I generated to show the predition from both Sklearn and Statsmodels:
+
+
+![print](prediction.PNG)
+
 Finally, I also used seaborn regplot to create a scatter plot, which showed the same result:
 
 ![print](linear_regression_regplot.PNG)
