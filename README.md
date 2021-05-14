@@ -67,17 +67,22 @@ Here is the table I generated to show the predition from both Sklearn and Statsm
 
 ### Seaborn regplot
 
-Finally, I also used Seaborn regplot to create a scatter plot, which showed the same result:
+seaborn.regplot() -> This method is used to plot data and a linear regression model fit. 
+
+I used Seaborn regplot to create a scatter plot and it showed the same result:
 
 ![print](linear_regression_regplot.PNG)
 
  
-
+ 
 ## Resources 
 
-Regressão Linear Simples no R. Available from: https://rstudio-pubs-static.s3.amazonaws.com/46495_3f8078811c5d44a5b7951bf68a230c04.html
+Regressão Linear Simples no R. [link](https://rstudio-pubs-static.s3.amazonaws.com/46495_3f8078811c5d44a5b7951bf68a230c04.html)
 
-10.2: The Linear Correlation Coefficient. Available from: https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.02%3A_The_Linear_Correlation_Coefficient
+10.2: The Linear Correlation Coefficient. [link](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.02%3A_The_Linear_Correlation_Coefficient)
 
-healthknowledge. Linear regression and correlation. Available from: https://www.healthknowledge.org.uk/e-learning/statistical-methods/specialists/linear-regression-correlation
+healthknowledge. Linear regression and correlation. [link](https://www.healthknowledge.org.uk/e-learning/statistical-methods/specialists/linear-regression-correlation)
+
+GreeksforGreeks (Aug, 2020). Python – seaborn.regplot() method. [link](https://www.geeksforgeeks.org/python-seaborn-regplot-method/#:~:text=regplot()%20%3A,a%20linear%20regression%20model%20fit.&text=If%20strings%2C%20these%20should%20correspond,labeled%20with%20the%20series%20name.&text=regplot()%20%3A,a%20linear%20regression%20model%20fit.&text=If%20strings%2C%20these%20should%20correspond,labeled%20with%20the%20series%20name.)
+
 
