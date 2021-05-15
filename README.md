@@ -57,13 +57,13 @@ Important points:
 ### Sklearn and Statsmodels
 I used Sklearn and Statsmodels to create the Linear Regression Model. Both generated the same scatter plot model: 
 
-![print](linear_regression_sklearn_statsmodels.PNG)
+![print](images/linear_regression_sklearn_statsmodels.PNG)
 
 
 Here is the table I generated to show the predition from both Sklearn and Statsmodels:
 
 
-![print](prediction.PNG)
+![print](images/prediction.PNG)
 
 ### Seaborn regplot
 
@@ -71,7 +71,7 @@ seaborn.regplot() -> This method is used to plot data and a linear regression mo
 
 I used Seaborn regplot to create a scatter plot and it showed the same result:
 
-![print](linear_regression_regplot.PNG)
+![print](images/linear_regression_regplot.PNG)
 
  
  
