@@ -4,7 +4,7 @@ This Simple Linear Regression is a fictional case study based on a [Kaggle datas
 
 ## Dependencies:
  
-* [Mumpy](https://numpy.org/)
+* [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [SciKit-Learn](https://scikit-learn.org/stable/)
 * [StatsModels](https://www.statsmodels.org/stable/index.html)
