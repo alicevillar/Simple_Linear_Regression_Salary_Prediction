@@ -2,7 +2,15 @@
 
 This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 
-* Tool: jupyter notebook
+## Dependencies:
+ 
+* [Mumpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [SciKit-Learn](https://scikit-learn.org/stable/)
+* [StatsModels](https://www.statsmodels.org/stable/index.html)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+ 
 
 # Fictional Case: Company X
 
