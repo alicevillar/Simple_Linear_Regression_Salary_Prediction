@@ -1,9 +1,22 @@
 # Simple Linear Regression: Salary Prediction
 
 This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
-Tool: jupyter notebook
 
-## Fictional Case: Company X
+ ### Quick Start: 
+[Check out](https://nbviewer.jupyter.org/github/alicevillar/Simple_Linear_Regression_Salary_Prediction/blob/main/Simple%20Linear%20Regression.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
+
+
+## Dependencies:
+ 
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [SciKit-Learn](https://scikit-learn.org/stable/)
+* [StatsModels](https://www.statsmodels.org/stable/index.html)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+ 
+
+# Fictional Case: Company X
 
 Company X provided you with employee data containing information about its employees experience time and salaries. The company is about to hire a new employee and wants you to estimate the salary for the new employee considering the time of experience.
 
@@ -51,12 +64,37 @@ Important points:
 * The sign of the linear correlation coefficient indicates the direction of the linear relationship between  x  and  y .
 * When  r  is near  1  or  −1  the linear relationship is strong; when it is near  0  the linear relationship is weak.
 
+## Company X - Approach
 
+### Sklearn and Statsmodels
+I used Sklearn and Statsmodels to create the Linear Regression Model. Both generated the same scatter plot model: 
+
+![print](images/linear_regression_sklearn_statsmodels.PNG)
+
+
+Here is the table I generated to show the predition from both Sklearn and Statsmodels:
+
+
+![print](images/prediction.PNG)
+
+### Seaborn regplot
+
+seaborn.regplot() -> This method is used to plot data and a linear regression model fit. 
+
+I used Seaborn regplot to create a scatter plot and it showed the same result:
+
+![print](images/linear_regression_regplot.PNG)
+
+ 
+ 
 ## Resources 
 
-Regressão Linear Simples no R. Available from: https://rstudio-pubs-static.s3.amazonaws.com/46495_3f8078811c5d44a5b7951bf68a230c04.html
+1. Introduction to R and RStudio. Regressão Linear Simples no R. [link](https://rstudio-pubs-static.s3.amazonaws.com/46495_3f8078811c5d44a5b7951bf68a230c04.html)
 
-10.2: The Linear Correlation Coefficient. Available from: https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.02%3A_The_Linear_Correlation_Coefficient
+2. Statistic Livre Text. (Jan, 2021) 10.2: The Linear Correlation Coefficient. [link](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/10%3A_Correlation_and_Regression/10.02%3A_The_Linear_Correlation_Coefficient)
 
-healthknowledge. Linear regression and correlation. Available from: https://www.healthknowledge.org.uk/e-learning/statistical-methods/specialists/linear-regression-correlation
+3. Healthknowledge:Statistical methods for specialists. Linear regression and correlation. [link](https://www.healthknowledge.org.uk/e-learning/statistical-methods/specialists/linear-regression-correlation)
+
+4. GreeksforGreeks (Aug, 2020). Python – seaborn.regplot() method. [link](https://www.geeksforgeeks.org/python-seaborn-regplot-method/#:~:text=regplot()%20%3A,a%20linear%20regression%20model%20fit.&text=If%20strings%2C%20these%20should%20correspond,labeled%20with%20the%20series%20name.&text=regplot()%20%3A,a%20linear%20regression%20model%20fit.&text=If%20strings%2C%20these%20should%20correspond,labeled%20with%20the%20series%20name.)
+
 
