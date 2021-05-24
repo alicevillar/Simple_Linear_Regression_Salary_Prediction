@@ -2,10 +2,6 @@
 
 This Simple Linear Regression is a fictional case study based on a [Kaggle dataset](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 
- ### Quick Start: 
-[Check out](https://nbviewer.jupyter.org/github/alicevillar/Simple_Linear_Regression_Salary_Prediction/blob/main/Simple%20Linear%20Regression.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.
-
-
 ## Dependencies:
  
 * [Numpy](https://numpy.org/)
